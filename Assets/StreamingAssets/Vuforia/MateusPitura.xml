@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="pixel_art_apple" size="450.000000 450.000000" />
+  </Tracking>
+</QCARConfig>

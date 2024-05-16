@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="art-pixel-banana" size="64.000000 64.000000" />
+    <ImageTarget name="art-pixel-watermelon" size="64.000000 64.000000" />
+    <ImageTarget name="art-pixel-coconut" size="64.000000 64.000000" />
+    <ImageTarget name="art-pixel-lemon" size="64.000000 64.000000" />
+    <ImageTarget name="art-pixel-apple" size="64.000000 64.000000" />
+  </Tracking>
+</QCARConfig>
