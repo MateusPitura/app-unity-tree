@@ -11,8 +11,6 @@
   <img src="https://img.shields.io/github/stars/MateusPitura/app-unity-tree?style=social"> 
 </p> 
 
-> :checkered_flag: Este projeto está finalizado :checkered_flag:  
-
 ## Descrição 
 
 ARborização é um aplicativo de realidade aumentada (AR) projetado para melhorar a forma como 
